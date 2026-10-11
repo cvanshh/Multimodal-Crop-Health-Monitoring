@@ -1,0 +1,7 @@
+Dataset : Beyond Visible Spectrum: AI for Agriculture 2023 (Kaggle)
+
+
+Dataset Link : "https://www.kaggle.com/competitions/beyond-visible-spectrum-ai-for-agriculture-P1/data?utm_source=chatgpt.com"
+
+
+Note : Synthetic data is used only for Testing Purposes.
