@@ -5,3 +5,6 @@ Dataset Link : "https://www.kaggle.com/competitions/beyond-visible-spectrum-ai-f
 
 
 Note : Synthetic data is used only for Testing Purposes.
+
+
+Integration: Multimodal Crop Health Monitoring system/archive/( Data from Extracted Zip File (train,val))
