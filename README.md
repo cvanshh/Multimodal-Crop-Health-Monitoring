@@ -1,4 +1,4 @@
-# AgriSpectra.AI  (paper-faithful version)
+# AgriSpectra.AI 
 
 Implements the architecture of "Multimodal Crop Health Monitoring Using Hyperspectral Imaging, IoT Sensors and Deep Learning":
 CNN (hyperspectral) + LSTM (IoT) branches with late fusion, Grad-CAM, and a Streamlit dashboard.
